@@ -1,1 +1,3 @@
 # Breast-Cancer-Detection-using-Random-forest-ML-model
+
+This project focuses on building a machine learning model for cancer classification using key cell features. It involves preprocessing the data, selecting relevant features, training multiple models, and optimizing hyperparameters to improve accuracy. The final model is evaluated using metrics like accuracy, precision, recall, and F1-score to ensure reliability in detecting malignant and benign cases. By leveraging advanced classification techniques, the project aims to enhance early detection and diagnosis, contributing to improved patient outcomes.
